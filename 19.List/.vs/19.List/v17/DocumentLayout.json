@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFCCAD8-4058-4DCF-9432-942722FC2AC6}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|c:\\users\\user\\desktop\\soft ub\\qa\\qa 11.08.22 uprajneniq\\19.list\\19.list\\05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFCCAD8-4058-4DCF-9432-942722FC2AC6}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|solutionrelative:05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37EE76C-74E7-401E-B234-AC2E4D932532}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|c:\\users\\user\\desktop\\soft ub\\qa\\qa 11.08.22 uprajneniq\\19.list\\19.list\\04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37EE76C-74E7-401E-B234-AC2E4D932532}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|solutionrelative:04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B5C3D-2DB5-4476-8503-DA7A696DDC47}|03.RemoveNegativesandReverse\\03.RemoveNegativesandReverse.csproj|c:\\users\\user\\desktop\\soft ub\\qa\\qa 11.08.22 uprajneniq\\19.list\\19.list\\03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B5C3D-2DB5-4476-8503-DA7A696DDC47}|03.RemoveNegativesandReverse\\03.RemoveNegativesandReverse.csproj|solutionrelative:03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D76C642-6696-49EB-A238-EC89C7F4FC84}|02.ListofProducts\\02.ListofProducts.csproj|c:\\users\\user\\desktop\\soft ub\\qa\\qa 11.08.22 uprajneniq\\19.list\\19.list\\02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D76C642-6696-49EB-A238-EC89C7F4FC84}|02.ListofProducts\\02.ListofProducts.csproj|solutionrelative:02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED87BD7-A874-4C7F-803B-251EA73BAE43}|01. Change List\\01. Change List.csproj|c:\\users\\user\\desktop\\soft ub\\qa\\qa 11.08.22 uprajneniq\\19.list\\19.list\\01. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED87BD7-A874-4C7F-803B-251EA73BAE43}|01. Change List\\01. Change List.csproj|solutionrelative:01. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "05.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "05.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAIwJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:44:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\04.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\04.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "04.ListManipulationBasics\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:27:11.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\03.RemoveNegativesandReverse\\Program.cs",
+              "RelativeDocumentMoniker": "03.RemoveNegativesandReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\03.RemoveNegativesandReverse\\Program.cs",
+              "RelativeToolTip": "03.RemoveNegativesandReverse\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:54:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\02.ListofProducts\\Program.cs",
+              "RelativeDocumentMoniker": "02.ListofProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\02.ListofProducts\\Program.cs",
+              "RelativeToolTip": "02.ListofProducts\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:17:26.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\01. Change List\\Program.cs",
+              "RelativeDocumentMoniker": "01. Change List\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SOFT UB\\QA\\QA 11.08.22 uprajneniq\\19.List\\19.List\\01. Change List\\Program.cs",
+              "RelativeToolTip": "01. Change List\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:00:42.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
